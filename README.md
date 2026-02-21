@@ -13,8 +13,8 @@
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
-<a href="https://github.com/GataNina-Li"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=DEACF7FF&center=true&width=435&lines=LEA+TODO+EL+README;%F0%9F%8D%AD+PANDA-MODS 
-🐼;%C2%A1Nuestra+curiosidad+no+tiene+l%C3%ADmites!" height="90px"></a> 
+<a href="https://github.com/GataNina-Li"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=DEACF7FF&center=true&width=435&lines=Siempre+hay+algo+nuevo+por+descubrir;%F0%9F%8D%AD+PANDA-MODS;%C2%A1Nuestra+creatividad+no+tiene+l%C3%ADmites!" height="90px"></a> 
+
 
 <div align="center">
 <a href="https://facebook.com/groups/872989990425789/">
